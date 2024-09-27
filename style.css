@@ -1,0 +1,55 @@
+html {
+  background-color: #278590;
+}
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #808080;
+  padding: 0 40px 40px 40px;
+  border: 20px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 10px 10px 1px red;
+}
+header{
+	background-color: #f2f2f2;
+	text-align: center;
+    padding: 25px;
+}
+nav a{
+	display: inline-block;
+	text-decoration:none;
+	color: #696969;
+	margin: 0 30px;
+	padding: 5px 15px;
+	border-radius: 40px;
+    font-size: 30px;
+
+}
+.encabezado-img{
+	background-image: url(fondo2.jpg);
+	background-size:cover;
+	height: 200px;
+	display:block;
+	
+}
+
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "Open Sans", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  color: white;
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
